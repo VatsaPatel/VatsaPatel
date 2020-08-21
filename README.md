@@ -1,1 +1,1 @@
-![Coming soon](Coming-soon.jpg)
+![Coming soon](https://github.com/VatsaPatel/VatsaPatel/raw/master/Coming-soon.jpg)
